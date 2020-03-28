@@ -1,4 +1,5 @@
-### Does not have to be a for loop, could be any process. This was an example. ###
+# Does not have to be a for loop, could be any process. This was an example.
+# Preview: https://i.imgur.com/Kz9kh9F.gif
 
 import os
 from colorama import init, Fore
